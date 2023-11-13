@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [ -z "${MODEL+x}" ]; then
-  MODEL="TheBloke/Synthia-34B-v1.2-GPTQ"
+  MODEL="TheBloke/OpenHermes-2.5-Mistral-7B-GPTQ"
 fi
 
 # Replace slashes with underscores
